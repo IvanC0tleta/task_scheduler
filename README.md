@@ -10,7 +10,7 @@
 2. Создайте и активируйте виртуальное окружение
 3. Установите зависимости requirements.txt
     ```bash
-    pip freeze > requirements.txt
+    pip install -r requirements.txt
     ```
 5. Запустите приложение:
     ```bash
